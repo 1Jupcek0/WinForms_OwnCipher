@@ -1,0 +1,88 @@
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.exe
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.deps.json
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.runtimeconfig.json
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.runtimeconfig.dev.json
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.dll
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.pdb
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.AssemblyReference.cache
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.Form1.resources
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.GenerateResource.cache
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.AssemblyInfoInputs.cache
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.AssemblyInfo.cs
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.CoreCompileInputs.cache
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.dll
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.pdb
+C:\Users\Jaroušek\source\repos\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.genruntimeconfig.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.exe
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.deps.json
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.runtimeconfig.json
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.runtimeconfig.dev.json
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.dll
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.pdb
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.AssemblyReference.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.Form1.resources
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.GenerateResource.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.AssemblyInfoInputs.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.AssemblyInfo.cs
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.CoreCompileInputs.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.dll
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.pdb
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.genruntimeconfig.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.Properties.Resources.resources
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.Form2.resources
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.AssemblyReference.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.Form1.resources
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.GenerateResource.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.dll
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.pdb
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.exe
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.deps.json
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.runtimeconfig.json
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.runtimeconfig.dev.json
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.dll
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.pdb
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.Form2.resources
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.Properties.Resources.resources
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.AssemblyInfoInputs.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.AssemblyInfo.cs
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.CoreCompileInputs.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.genruntimeconfig.cache
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.exe
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.deps.json
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.runtimeconfig.json
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.runtimeconfig.dev.json
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.dll
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.pdb
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.AssemblyReference.cache
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.Form1.resources
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.Form2.resources
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.Properties.Resources.resources
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.GenerateResource.cache
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.AssemblyInfoInputs.cache
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.AssemblyInfo.cs
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.CoreCompileInputs.cache
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.sourcelink.json
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.dll
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.pdb
+C:\Users\Jarousek\Desktop\github\šifra\šifra\SifrovacDesifrovac\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.genruntimeconfig.cache
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.exe
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.deps.json
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.runtimeconfig.json
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.runtimeconfig.dev.json
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.dll
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\bin\Debug\netcoreapp3.1\SifrovacDesifrovac.pdb
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.AssemblyReference.cache
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.Form1.resources
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.Form2.resources
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.Properties.Resources.resources
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.GenerateResource.cache
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.AssemblyInfoInputs.cache
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.AssemblyInfo.cs
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.csproj.CoreCompileInputs.cache
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.dll
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.pdb
+C:\Users\Jarousek\Desktop\github_push\SifrovacDesifrovac\obj\Debug\netcoreapp3.1\SifrovacDesifrovac.genruntimeconfig.cache
