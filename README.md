@@ -1,7 +1,7 @@
 # Windows Froms - Encrypt and Decrypt application
 
 <br />
-<div align="center">
+<div align="left">
 • Small application with my own cipher where I manipulate and mutate bits
 </div>
 
